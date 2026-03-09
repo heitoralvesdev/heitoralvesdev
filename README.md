@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**heitoralvesdev/heitoralvesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+My name is [Heitor Alves].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Beginner Developer  
+🐍 Learning Python  
+📊 Interested in Data Analysis and Automation  
+
+## 🚀 Skills
+- Python
+- Data Analysis
+- Git & GitHub
+
+## 📂 Projects
+- Sales Data Analyzer
+
+## 📚 Currently Learning
+- Python
+- Data analysis with Pandas
+- Automation scripts
+
+## 🎯 Goals
+Become a professional developer and work with remote projects.

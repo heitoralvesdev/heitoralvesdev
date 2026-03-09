@@ -1,24 +1,25 @@
+# Hi, I'm Heitor Alves 👋
 
-# Hi there 👋
+I'm a Python developer and aspiring data/automation enthusiast.
 
-My name is Heitor Alves.
+## Projects
 
-💻 Beginner Developer  
-🐍 Learning Python  
-📊 Interested in Data Analysis and Automation  
+### 1. Sales Data Analyzer
+- Automates analysis of sales data using Python and Excel.
+- Generates insights and visualizations.
+- [Repository link](https://github.com/heitoralvesdev/sales-data-analyzer)
 
-## 🚀 Skills
-- Python
-- Data Analysis
+### 2. Password Generator
+- Generates secure random passwords using Python.
+- Customizable length and characters.
+- [Repository link](https://github.com/heitoralvesdev/password-generator)
+
+### 3. File Organizer Advanced
+- Organizes files automatically by type and creation date.
+- Dynamic folder input, subfolders by year-month.
+- [Repository link](https://github.com/heitoralvesdev/file-organizer)
+
+## Skills
+- Python: automation, data analysis
 - Git & GitHub
-
-## 📂 Projects
-- Sales Data Analyzer
-
-## 📚 Currently Learning
-- Python
-- Data analysis with Pandas
-- Automation scripts
-
-## 🎯 Goals
-Become a professional developer and work with remote projects.
+- Basic data visualization

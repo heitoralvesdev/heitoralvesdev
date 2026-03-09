@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-My name is [Heitor Alves].
+My name is Heitor Alves.
 
 💻 Beginner Developer  
 🐍 Learning Python  

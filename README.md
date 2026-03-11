@@ -1,6 +1,7 @@
 # Hi, I'm Heitor Alves 👋
 
-I'm a Python developer and aspiring data/automation enthusiast.
+Python Developer focused on process automation, API integration and data analysis.
+I build practical solutions with Python to automate tasks, analyze data and solve real-world problems.
 
 ## Projects
 

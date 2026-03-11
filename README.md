@@ -20,6 +20,10 @@ I'm a Python developer and aspiring data/automation enthusiast.
 - [Repository link](https://github.com/heitoralvesdev/file-organizer)
 
 ## Skills
-- Python: automation, data analysis
-- Git & GitHub
+- Python (automation, scripting, data processing)
+- REST APIs integration
+Git & GitHub
+- Data analysis
 - Basic data visualization
+- Process automation
+- Problem solving
